@@ -37,7 +37,6 @@ Meteor.methods({
         });
     },
     'tasks.remove' (taskId, setChecked) {
-        check(setChecked, Boolean);
         check(taskId, String);
 
         const task = Tasks.findOne(taskId);
