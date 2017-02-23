@@ -1,3 +1,7 @@
-The classic todos app using meteor following the tutorial:
-https://www.meteor.com/tutorials/angular/creating-an-app
-The app is running on iOS, Android and web.
+# The classic todos app using meteor following the tutorial:
+>* https://www.meteor.com/tutorials/angular/creating-an-app
+> The app is running on iOS, Android and web.
+# Web
+![Screenshot](web.png)
+# iOS
+![Screenshot](iOS.png)
